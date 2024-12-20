@@ -74,9 +74,6 @@ Other platforms like **GitLab** and **Bitbucket** offer similar functionalities 
      cd [name]
      ```
    - Create a file `task1.txt`:
-     ```bash
-     touch task1.txt
-     ```
    - Add content to `task1.txt`, indicating the task is complete (e.g., `Task 1 is done`).
 
 4. **Stage, Commit, and Push Changes:**
