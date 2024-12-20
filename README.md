@@ -25,6 +25,9 @@ Other platforms like **GitLab** and **Bitbucket** offer similar functionalities 
 
 ---
 
+[Download Git](https://git-scm.com/downloads/win) 
+
+---
 ## Resources to Learn Git and GitHub
 
 ### Books
