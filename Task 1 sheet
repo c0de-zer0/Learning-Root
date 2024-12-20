@@ -1,0 +1,36 @@
+Instructions with example 
+
+# Need add your global git accounts into your terminal after downloading the git (you could use VSCode Terminal)
+git config --global user.email "youremail@protonmail.com"
+git config --global user.name "your_username"
+
+# clone the repo 
+git clone github.com/user-name/repo-name
+
+# move into the repo for folder using cd 
+pwd # know where you are 
+ls # list out the dir and files 
+cd .\Learning-Root\
+
+# Create a branch with your name_favnumber ex: NothuMan_07
+git checkout -b death_7
+
+# Create a dir/folder with your name and move into it 
+ls
+mkdir death
+cd .\death\
+
+# create a file via manual (going throuh file explorer or VSCode) and add contents into it 
+ls 
+task1.txt 
+
+# stage the file using git add 
+git add .\task1.txt
+
+# commit the changes with a message using git commit -m "message"
+git commit -m "death added task 1"
+
+# push the changes via your_branch
+git push origin death_7
+
+# Go to repo page -> pull request (PR) -> compare and pull request -> wait for the review 
